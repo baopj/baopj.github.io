@@ -10,7 +10,9 @@ redirect_from:
 
 About Me
 ======
-I am **Peijun Bao (包培钧)**, currently a PhD student at [RoseLab@NTU](https://www.ntu.edu.sg/rose/about-us/our-people#Content_C001_Col00) supervised by [Prof. Alex Kot](https://personal.ntu.edu.sg/eackot/) (IEEE Fellow). Additionally, I collaborate closely with [Prof. Yadong Mu (PKU)](http://www.muyadong.com/), [Prof. Zheng Qian (ZJU)](https://person.zju.edu.cn/zq), [Prof. Yong Xia (NPU) ](https://scholar.google.com/citations?user=Usw1jeMAAAAJ&hl=en), and [Dr. Yang Wenhan (Pengcheng Lab)](https://flyywh.github.io/).
+I am **Peijun Bao (包培钧)**, currently a PhD student at [RoseLab@NTU](https://www.ntu.edu.sg/rose/about-us/our-people#Content_C001_Col00) supervised by [Prof. Alex Kot](https://personal.ntu.edu.sg/eackot/) (IEEE Fellow) and [Prof. Er Meng Hwa](https://www.ntu.edu.sg/research/faculty-directory/detail/rp02304) (IEEE Fellow).
+
+Additionally, I collaborate closely with [Prof. Yadong Mu (PKU)](http://www.muyadong.com/), [Prof. Zheng Qian (ZJU)](https://person.zju.edu.cn/zq), [Prof. Yong Xia (NPU) ](https://scholar.google.com/citations?user=Usw1jeMAAAAJ&hl=en), and [Dr. Yang Wenhan (Pengcheng Lab)](https://flyywh.github.io/).
 
 My research interests lie in joint understanding of video and language.
 
@@ -27,7 +29,7 @@ Publications
 ======
 Omnipotent Distillation with LLMs for Weakly-Supervised Natural Language Video Localization: When Divergence Meets Consistency,<br />
 **Peijun Bao**, Zihao Shao, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,<br />
-*AAAI 2024* [[pdf]](https://baopj.github.io/files/OmniD_AAAI2024.pdf)
+*AAAI 2024* [[pdf]](https://baopj.github.io/files/OmniD_AAAI2024.pdf) 
 
 Local-Global Multi-Modal Distillation for Weakly-Supervised Temporal Video Grounding, <br />
 **Peijun Bao**, Yong Xia, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot, <br />
