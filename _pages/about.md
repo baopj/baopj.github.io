@@ -18,10 +18,10 @@ My research interests lie in joint understanding of video and language.
 
 News
 ======
-- [2023.12] Two paper on video grounding is accepted by AAAI 2024.
-- [2022.12] One paper on video localization is accepted by AAAI 2023.
-- [2022.01] One paper on video grounding is accepted by ICMR 2022.
-- [2021.01] One paper on video grounding is accepted by AAAI 2021.
+- [2023.12] 2 papers are accepted by AAAI 2024!
+- [2022.12] 1 paper is accepted by AAAI 2023!
+- [2022.01] 1 paper is accepted by ICMR 2022!
+- [2021.01] 1 paper is accepted by AAAI 2021!
 <br />
 <br />
 
