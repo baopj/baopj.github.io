@@ -10,9 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am **Peijun Bao (包培钧)**, currently a PhD student at [RoseLab@NTU](https://www.ntu.edu.sg/rose/about-us/our-people#Content_C001_Col00) supervised by [Prof. Alex Kot](https://personal.ntu.edu.sg/eackot/) (SAEng/IEEE Fellow) and [Prof. Er Meng Hwa](https://www.ntu.edu.sg/research/faculty-directory/detail/rp02304) (SAEng/IEEE Fellow).
-
-Additionally, I collaborate closely with [Prof. Yadong Mu (PKU)](http://www.muyadong.com/), [Prof. Zheng Qian (ZJU)](https://person.zju.edu.cn/zq), [Prof. Yong Xia (NPU) ](https://scholar.google.com/citations?user=Usw1jeMAAAAJ&hl=en), and [Dr. Yang Wenhan (Pengcheng Lab)](https://flyywh.github.io/).
+I am **Peijun Bao (包培钧)**, currently a PhD student at [RoseLab@NTU](https://www.ntu.edu.sg/rose/about-us/our-people#Content_C001_Col00) supervised by [Prof. Alex Kot](https://personal.ntu.edu.sg/eackot/) (SAEng/IEEE Fellow) and [Prof. Er Meng Hwa](https://www.ntu.edu.sg/research/faculty-directory/detail/rp02304) (SAEng/IEEE Fellow). Additionally, I collaborate closely with [Prof. Yadong Mu (PKU)](http://www.muyadong.com/), [Prof. Zheng Qian (ZJU)](https://person.zju.edu.cn/zq), [Prof. Yong Xia (NPU) ](https://scholar.google.com/citations?user=Usw1jeMAAAAJ&hl=en), and [Dr. Yang Wenhan (Pengcheng Lab)](https://flyywh.github.io/).
 
 My research interests lie in joint understanding of video and language.
 
