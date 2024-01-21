@@ -14,7 +14,7 @@ To visit this page, you can
 1. use url [https://baopj.github.io/Course/](https://baopj.github.io/Course/) 
 2. scan QR code 
 
-![QR_IE0005_Group](https://baopj.github.io/images/QR_IE0005_Group.png){:width="150px" height="150px"}
+![QR_IE0005_Group](https://baopj.github.io/images/QR_IE0005_Group.png){:width="240px" height="240px"}
 ## EL02
 - Lab Session Schedule: Monday, 9:30 - 11:20
 - Registration Link: [link](https://docs.google.com/spreadsheets/d/1evCmdrF5lygupPDoQHVzwdcB-urkrGARy2joQOeklbc)
