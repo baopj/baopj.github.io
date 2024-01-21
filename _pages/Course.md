@@ -12,8 +12,8 @@ To visit this page, you can
 ![QR_IE0005_Group](https://baopj.github.io/images/QR_IE0005_Group.png){:width="300px" height="300px"}
 
 # IE0005: Group Formation for Mini Project
-- Requirement: Each group consists of **exactly 4 members**
-- Group registration deadline: **Friday, January 26, 2024**.
+- Each group consists of **exactly 4 members**
+- Group registration deadline: **Friday, January 26, 2024**. 
 - Those not in a group by the deadline will be randomly assigned to groups.
 
 ## EL02
