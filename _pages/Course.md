@@ -1,19 +1,21 @@
 ---
 layout: archive
-title: "IE0005: Team Formation for Mini Project"
+title: 
 permalink: /Course/
 author_profile: true
 ---
-
-- Requirement: Each group consists of **exactly 4 members** for the mini project
-- Group registration deadline: **Friday, January 26, 2024**.
-- If individuals are not in a group by the deadline, they would be randomly assigned to groups.
 
 To visit this page, you can
 1. use url [https://baopj.github.io/Course/](https://baopj.github.io/Course/) 
 2. scan QR code 
 
 ![QR_IE0005_Group](https://baopj.github.io/images/QR_IE0005_Group.png){:width="300px" height="300px"}
+
+# IE0005: Team Formation for Mini Project
+- Requirement: Each group consists of **exactly 4 members** for the mini project
+- Group registration deadline: **Friday, January 26, 2024**.
+- If individuals are not in a group by the deadline, they would be randomly assigned to groups.
+
 ## EL02
 - Lab Session Schedule: Monday, 9:30 - 11:20
 - Registration Link: [link](https://docs.google.com/spreadsheets/d/1evCmdrF5lygupPDoQHVzwdcB-urkrGARy2joQOeklbc)
