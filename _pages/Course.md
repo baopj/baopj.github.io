@@ -9,6 +9,7 @@ author_profile: true
 - Each group consist of **exactly 4 members**.
 - Registration deadline: **Friday, January 26, 2024**.
 - If individuals aren't in a group by the deadline, they'll be randomly assigned to groups.
+
 ## EL02
 - Lab Session Schedule: Monday, 9:30 - 11:20
 - Registration Link: [link](https://docs.google.com/spreadsheets/d/1evCmdrF5lygupPDoQHVzwdcB-urkrGARy2joQOeklbc)
