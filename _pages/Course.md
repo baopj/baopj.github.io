@@ -4,12 +4,14 @@ title: Group Formation for IE0005
 permalink: /Course/
 author_profile: true
 ---
-![[https://baopj.github.io/images/QR_IE0005_Group.png]]
+
 # Team Formation
-- Each group consist of **exactly 4 members**.
+- Each group consists of **exactly 4 members**.
 - Registration deadline: **Friday, January 26, 2024**.
 - If individuals aren't in a group by the deadline, they'll be randomly assigned to groups.
 
+Using this page i.e. [https://baopj.github.io/Course/](https://baopj.github.io/Course/) or scanning following QR code
+![QR_IE0005_Group](images/QR_IE0005_Group.png)
 ## EL02
 - Lab Session Schedule: Monday, 9:30 - 11:20
 - Registration Link: [link](https://docs.google.com/spreadsheets/d/1evCmdrF5lygupPDoQHVzwdcB-urkrGARy2joQOeklbc)
