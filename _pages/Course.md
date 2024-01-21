@@ -24,8 +24,5 @@ To visit this page, you can
 - Lab Session Schedule: *Monday, 11:30 - 13:20*
 - Registration Link: [EL03](https://docs.google.com/spreadsheets/d/1aUSOMDJob0KzTtVo3SXQq347cvpRR9EvQMuIw9jtwKY)
 
-## EL05
-- Lab Session Schedule: *Monday, 13:20 - 15:30*
-- Registration Link: [EL05](https://docs.google.com/spreadsheets/d/1KQ2i9b7nIkLm7rHrdHm31kqhH_P1ZTMQKynIgdsj4eQ)
 
 
