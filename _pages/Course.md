@@ -10,8 +10,11 @@ author_profile: true
 - Registration deadline: **Friday, January 26, 2024**.
 - If individuals aren't in a group by the deadline, they'll be randomly assigned to groups.
 
-Using this page i.e. [https://baopj.github.io/Course/](https://baopj.github.io/Course/) or scanning following QR code
-![QR_IE0005_Group](https://baopj.github.io/images/QR_IE0005_Group.png){:width="50px" height="50px"}
+To visit this page, you can
+1. use url [https://baopj.github.io/Course/](https://baopj.github.io/Course/) 
+2. scan QR code 
+
+![QR_IE0005_Group](https://baopj.github.io/images/QR_IE0005_Group.png){:width="150px" height="150px"}
 ## EL02
 - Lab Session Schedule: Monday, 9:30 - 11:20
 - Registration Link: [link](https://docs.google.com/spreadsheets/d/1evCmdrF5lygupPDoQHVzwdcB-urkrGARy2joQOeklbc)
