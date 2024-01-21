@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: Course@IE0005
+title: Course
 permalink: /Course/
 author_profile: true
 ---
 
-# Group Formation
+# Group Formation for IE0005
 - Each group consist of **exactly 4 members**.
 - Registration deadline: **Friday, January 26, 2024**.
 - If individuals aren't in a group by the deadline, they'll be randomly assigned to groups.
