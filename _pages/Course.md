@@ -23,6 +23,6 @@ author_profile: true
 - Registration Link: [link](https://docs.google.com/spreadsheets/d/1KQ2i9b7nIkLm7rHrdHm31kqhH_P1ZTMQKynIgdsj4eQ)
 
 ## EL07
-- Lab Session Schedule: Monday, 9:30 - 11:20
+- Lab Session Schedule: Tuesday, 9:30 - 11:20
 - Registration Link: [link](https://docs.google.com/spreadsheets/d/1yOqa7CF7cSCC3tdBGQX4OXrbUypRrzRVjERSDaskZJ8)
 
