@@ -13,7 +13,7 @@ To visit this page, you can
 
 # IE0005: Group Formation for Mini Project
 - Requirement: Each group consists of **exactly 4 members**
-- Group registration deadline: **Friday, January 26, 2024**.
+- Group registration deadline: **Sunday, January 28, 2024**.
 - Those not in a group by the deadline will be randomly assigned to groups.
 
 ## EL02
