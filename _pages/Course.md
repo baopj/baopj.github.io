@@ -4,7 +4,7 @@ title: Group Formation for IE0005
 permalink: /Course/
 author_profile: true
 ---
-
+![[https://baopj.github.io/images/QR_IE0005_Group.png]]
 # Team Formation
 - Each group consist of **exactly 4 members**.
 - Registration deadline: **Friday, January 26, 2024**.
