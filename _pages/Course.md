@@ -7,7 +7,7 @@ author_profile: true
 
 To visit this page, you can
 1. use url [https://baopj.github.io/Course/](https://baopj.github.io/Course/) 
-2. scan QR code 
+2. or scan QR code 
 
 ![QR_IE0005_Group](https://baopj.github.io/images/QR_IE0005_Group.png){:width="300px" height="300px"}
 
