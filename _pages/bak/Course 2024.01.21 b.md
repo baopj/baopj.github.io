@@ -14,7 +14,7 @@ To visit this page, you can
 # IE0005: Team Formation for Mini Project
 - Requirement: Each group consists of **exactly 4 members**
 - Group registration deadline: **Friday, January 26, 2024**.
-- Those not in a group by the deadline will be randomly assigned to groups.
+- For those who are not in a group by the deadline,  they would be randomly assigned to groups.
 
 ## EL02
 - Lab Session Schedule: Monday, 9:30 - 11:20
