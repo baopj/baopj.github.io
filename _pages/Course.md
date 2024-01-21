@@ -12,9 +12,9 @@ To visit this page, you can
 ![QR_IE0005_Group](https://baopj.github.io/images/QR_IE0005_Group.png){:width="300px" height="300px"}
 
 # IE0005: Team Formation for Mini Project
-- Requirement: Each group consists of **exactly 4 members** for the mini project
+- Requirement: Each group consists of **exactly 4 members**
 - Group registration deadline: **Friday, January 26, 2024**.
-- If individuals are not in a group by the deadline, they would be randomly assigned to groups.
+- For those cannot find a group, I will help to randomly assign you to form groups.
 
 ## EL02
 - Lab Session Schedule: Monday, 9:30 - 11:20
