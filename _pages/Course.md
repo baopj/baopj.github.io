@@ -1,14 +1,13 @@
 ---
 layout: archive
-title: Course
+title: "IE0005: Team Formation for Mini Project"
 permalink: /Course/
 author_profile: true
 ---
 
-# IE0005: Team Formation
-- Each group consists of **exactly 4 members**.
-- Registration deadline: **Friday, January 26, 2024**.
-- If individuals aren't in a group by the deadline, they'll be randomly assigned to groups.
+- Requirement: Each group consists of **exactly 4 members** for the mini project
+- Group registration deadline: **Friday, January 26, 2024**.
+- If individuals are not in a group by the deadline, they would be randomly assigned to groups.
 
 To visit this page, you can
 1. use url [https://baopj.github.io/Course/](https://baopj.github.io/Course/) 
