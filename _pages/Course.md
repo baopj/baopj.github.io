@@ -23,7 +23,7 @@ To visit this page, you can
 
 <br />
 # IE0005: Group Formation for Mini Project
-- Each group consists of **exactly 4 members**. Those not in a group by the deadline will be randomly assigned to groups.
+- Each group consists of **4 members**. Those not in a group by the deadline will be randomly assigned to groups.
 - <del>Group registration deadline: Friday, January 26, 2024</del>. 
 
 ## EL02
