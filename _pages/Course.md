@@ -23,9 +23,11 @@ To visit this page, you can
 2. EL03: Mon 12 Feb 2024, 11:30-13:20
 3. EL05: Mon 12 Feb 2024, 13:30-15:20
 4. EL07: Tue 12 Feb 2024, 09:30-11:20
+
+
 # IE0005: Group Formation for Mini Project
 - Each group consists of **exactly 4 members**
-- Group registration deadline: **Friday, January 26, 2024**. 
+- ~~Group registration deadline: **Friday, January 26, 2024**. ~~
 - Those not in a group by the deadline will be randomly assigned to groups.
 
 ## EL02
