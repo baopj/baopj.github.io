@@ -24,11 +24,6 @@ News
 
 Publications 
 ======
-Dense Events Grounding in Video, <br />
-**Peijun Bao**, Qian Zheng, Yadong Mu,<br />
-*AAAI 2021 (oral)* [[pdf]](https://baopj.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf) [[code]](https://github.com/baopj/DenseEventsGrounding)<br />
-<small> Note: we propose a new task i.e. video paragraph grounding, and  [[CVPR23]](https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_Hierarchical_Semantic_Correspondence_Networks_for_Video_Paragraph_Grounding_CVPR_2023_paper.pdf), [[CVPR22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Semi-Supervised_Video_Paragraph_Grounding_With_Contrastive_Encoder_CVPR_2022_paper.pdf), and [[EMNLP22]](https://aclanthology.org/2022.emnlp-main.639.pdf) follow our task. </small>
-
 Omnipotent Distillation with LLMs for Weakly-Supervised Natural Language Video Localization: When Divergence Meets Consistency,<br />
 **Peijun Bao**, Zihao Shao, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,<br />
 *AAAI 2024* 
@@ -40,6 +35,11 @@ Local-Global Multi-Modal Distillation for Weakly-Supervised Temporal Video Groun
 Cross-Modal Label Contrastive Learning for Unsupervised Audio-Visual Event Localization, <br />
 **Peijun Bao**, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,<br />
 *AAAI 2023 (oral)* [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/25093)
+
+Dense Events Grounding in Video, <br />
+**Peijun Bao**, Qian Zheng, Yadong Mu,<br />
+*AAAI 2021 (oral)* [[pdf]](https://baopj.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf) [[code]](https://github.com/baopj/DenseEventsGrounding)<br />
+<small> Note: we propose a new task i.e. video paragraph grounding, and  [[CVPR23]](https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_Hierarchical_Semantic_Correspondence_Networks_for_Video_Paragraph_Grounding_CVPR_2023_paper.pdf), [[CVPR22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Semi-Supervised_Video_Paragraph_Grounding_With_Contrastive_Encoder_CVPR_2022_paper.pdf), and [[EMNLP22]](https://aclanthology.org/2022.emnlp-main.639.pdf) follow our task. </small>
 
 Learning Sample Importance for Cross-Scenario Video Temporal Grounding, <br />
 **Peijun Bao**, Yadong Mu,<br />
