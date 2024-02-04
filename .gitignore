@@ -1,16 +1,5 @@
 _site/
+_pages/bak/
+.obsidian
+.gitignore
 
-_pages/.obsidian/app.json
-_pages/.obsidian/appearance.json
-_pages/.obsidian/core-plugins-migration.json
-_pages/.obsidian/core-plugins.json
-_pages/.obsidian/hotkeys.json
-_pages/.obsidian/workspace.json
-_pages/about.md
-baopj.github.io/.obsidian/app.json
-baopj.github.io/.obsidian/appearance.json
-baopj.github.io/.obsidian/core-plugins-migration.json
-baopj.github.io/.obsidian/core-plugins.json
-baopj.github.io/.obsidian/hotkeys.json
-baopj.github.io/.obsidian/workspace.json
-_pages/bak/about 2024.01.13.md
