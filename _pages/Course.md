@@ -21,7 +21,7 @@ To visit this page, you can
 4. EL07: Tue   13 Feb 2024, 09:30-11:20
 
 # IE005: Change of TA in Week 6 and 7
--   I'll be away at the AAAI conference in Canada from **Feb 20 to Feb 28**, 2024. Runzhong and Pengyu, also TAs for IE005, will cover my duties. Thanks, Runzhong and Pengyu! 
+-   I'll be away at the AAAI conference in Canada from **Feb 20 to 28**, 2024. Runzhong and Pengyu, also TAs for IE005, will cover my duties. Thanks, Runzhong and Pengyu! 
 
 # IE0005: Group Formation for Mini Project
 - Each group consists of 4 members. Those not in a group by the deadline will be randomly assigned to groups.
