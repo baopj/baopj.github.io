@@ -8,7 +8,7 @@ author_profile: true
 To visit this page, you can
 1. use url [https://baopj.github.io/Course/](https://baopj.github.io/Course/) 
 2. or scan QR code (latest update: 2024/02/04)
-![QR_IE0005_Group](https://baopj.github.io/images/QR_IE0005_Group.png){:width="300px" height="300px"}
+![QR_IE0005_Group](https://baopj.github.io/images/QR_IE0005_Group.png){:width="260px" height="260px"}
 
 # IE0005: Online Lab Session in Week 5
 - Your lab class in week 5 (12 Feb to16 Feb 2024) will be **online**.
