@@ -5,10 +5,6 @@ permalink: /Course/
 author_profile: true
 ---
 
-To visit this page, you can
-1. use url [https://baopj.github.io/Course/](https://baopj.github.io/Course/) 
-2. or scan QR code (latest update: 2024/02/04)
-![QR_IE0005_Group](https://baopj.github.io/images/QR_IE0005_Group.png){:width="260px" height="260px"}
 
 # IE0005: Online Lab Session in Week 5
 - Your lab class in week 5 (12 Feb to16 Feb 2024) will be **online**.
@@ -18,9 +14,6 @@ To visit this page, you can
 2. EL03: Mon 12 Feb 2024, 11:30-13:20
 3. EL05: Mon 12 Feb 2024, 13:30-15:20
 4. EL07: Tue   13 Feb 2024, 09:30-11:20
-
-# IE0005: Change of TA in Week 6 and 7
--   I'll be away at the AAAI conference in Canada from **Feb 20 to 28**, 2024. Runzhong and Pengyu, TAs for IE005, will cover my duties of lab sessions. Thanks, Runzhong and Pengyu! 
 
 # IE0005: Group Formation for Mini Project
 - Each group consists of 4 members. Those not in a group by the deadline will be randomly assigned to groups.
