@@ -5,6 +5,8 @@ permalink: /Course/
 author_profile: true
 ---
 
+Course Page for IE0005 and IE2110.
+
 
 # IE0005: Online Lab Session in Week 5
 - Your lab class in week 5 (12 Feb to16 Feb 2024) will be **online**.
