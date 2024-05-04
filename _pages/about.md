@@ -26,11 +26,11 @@ Publications
 ======
 Omnipotent Distillation with LLMs for Weakly-Supervised Natural Language Video Localization: When Divergence Meets Consistency,<br />
 **Peijun Bao**, Zihao Shao, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,<br />
-*AAAI 2024* 
+*AAAI 2024*  [[pdf]](https://baopj.github.io/files/OmniD_AAAI2024.pdf) 
 
 Local-Global Multi-Modal Distillation for Weakly-Supervised Temporal Video Grounding, <br />
 **Peijun Bao**, Yong Xia, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot, <br />
-*AAAI 2024* 
+*AAAI 2024* [[pdf]](https://baopj.github.io/files/MMDist_AAAI2024.pdf)
 
 Cross-Modal Label Contrastive Learning for Unsupervised Audio-Visual Event Localization, <br />
 **Peijun Bao**, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,<br />
