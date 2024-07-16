@@ -84,7 +84,7 @@ follow our task. </small>
 Peijun Bao, Yadong Mu,
 <br />
 <i> 
-ICMR 2022 (oral) [[pdf]](https://arxiv.org/pdf/2201.02848.pdf)
+International Conference on Multimedia Retrieval (ICMR) 2022 (oral) [[pdf]](https://arxiv.org/pdf/2201.02848.pdf)
 </i>
 
 
@@ -93,5 +93,5 @@ ICMR 2022 (oral) [[pdf]](https://arxiv.org/pdf/2201.02848.pdf)
 Chenchen Liu, Yongzhi Li, Kangqi Ma, Duo Zhang, Peijun Bao, Yadong Mu,
 <br />
 <i> 
-IJCAI 2021 [[pdf]](https://www.ijcai.org/proceedings/2021/0118.pdf)
+The 30th International Joint Conference on Artificial Intelligence (IJCAI) 2021 [[pdf]](https://www.ijcai.org/proceedings/2021/0118.pdf)
 </i>
