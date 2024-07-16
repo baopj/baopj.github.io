@@ -63,7 +63,7 @@ Peijun Bao, Qian Zheng, Yadong Mu,
 <br />
 <i> 
 Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021 (oral) [[pdf]](https://baopj.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf) [[code]](https://github.com/baopj/DenseEventsGrounding)<br />
-<small> Note: we propose a popular new task i.e. Video Paragraph Grounding. \\
+<small> Note: we propose a popular new task i.e. Video Paragraph Grounding. 
 A list of works such as
 [[CVPR24]](https://arxiv.org/pdf/2403.11463),  
 [[CVIU24]](https://arxiv.org/pdf/2109.11265), 
