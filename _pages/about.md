@@ -25,7 +25,7 @@ News
 
 Publications 
 ======
-E3M: Zero-Shot Spatio-Temporal Video Grounding with Expectation-Maximization Multimodal Modulation,
+<strong> E3M: Zero-Shot Spatio-Temporal Video Grounding with Expectation-Maximization Multimodal Modulation, </strong>
 <br />
 **Peijun Bao**, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,
 <br />
