@@ -84,7 +84,7 @@ follow our task. </small>
 Peijun Bao, Yadong Mu,
 <br />
 <i> 
-International Conference on Multimedia Retrieval (ICMR) 2022 (oral) [[pdf]](https://arxiv.org/pdf/2201.02848.pdf)
+The 12th International Conference on Multimedia Retrieval (ICMR) 2022 (oral) [[pdf]](https://arxiv.org/pdf/2201.02848.pdf)
 </i>
 
 
