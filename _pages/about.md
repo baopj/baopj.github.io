@@ -25,33 +25,33 @@ News
 
 Publications 
 ======
-E3M: Zero-Shot Spatio-Temporal Video Grounding with Expectation-Maximization Multimodal Modulation, 
+Peijun Bao, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,
 <br />
-**Peijun Bao**, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,
+E3M: Zero-Shot Spatio-Temporal Video Grounding with Expectation-Maximization Multimodal Modulation, 
 <br />
 <i> 
 European Conference on Computer Vision (ECCV) 2024  [[pdf]](https://baopj.github.io), [[code]](https://github.com/baopj/E3M) 
 </i>
 
-Omnipotent Distillation with LLMs for Weakly-Supervised Natural Language Video Localization: When Divergence Meets Consistency,
+Peijun Bao, Zihao Shao, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,
 <br />
-**Peijun Bao**, Zihao Shao, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,
+Omnipotent Distillation with LLMs for Weakly-Supervised Natural Language Video Localization: When Divergence Meets Consistency,
 <br />
 <i>
 Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024  [[pdf]](https://baopj.github.io/files/OmniD_AAAI2024.pdf) 
 </i>
 
-Local-Global Multi-Modal Distillation for Weakly-Supervised Temporal Video Grounding, 
+Peijun Bao, Yong Xia, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot, 
 <br />
-**Peijun Bao**, Yong Xia, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot, 
+Local-Global Multi-Modal Distillation for Weakly-Supervised Temporal Video Grounding, 
 <br />
 <i>
 Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024 [[pdf]](https://baopj.github.io/files/MMDist_AAAI2024.pdf)
 </i>
 
-Cross-Modal Label Contrastive Learning for Unsupervised Audio-Visual Event Localization, 
+Peijun Bao, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,
 <br />
-**Peijun Bao**, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,
+Cross-Modal Label Contrastive Learning for Unsupervised Audio-Visual Event Localization, 
 <br />
 <i> 
 Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023 (oral) [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/25093)
