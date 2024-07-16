@@ -24,6 +24,7 @@ News
 
 Publications 
 ======
+(test)
 Omnipotent Distillation with LLMs for Weakly-Supervised Natural Language Video Localization: When Divergence Meets Consistency,<br />
 **Peijun Bao**, Zihao Shao, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,<br />
 *AAAI 2024*  [[pdf]](https://baopj.github.io/files/OmniD_AAAI2024.pdf) 
