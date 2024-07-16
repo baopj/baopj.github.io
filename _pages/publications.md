@@ -36,13 +36,21 @@ author_profile: true
 <br />
 **Peijun Bao**, Yong Xia, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot, 
 <br />
-AAAI 2024 [[pdf]](https://baopj.github.io/files/MMDist_AAAI2024.pdf)
+<i>AAAI 2024 [[pdf]](https://baopj.github.io/files/MMDist_AAAI2024.pdf)
+</i>
+
+<strong> Cross-Modal Label Contrastive Learning for Unsupervised Audio-Visual Event Localization, </strong>
+<br />
+**Peijun Bao**, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,
+<br />
+<i> AAAI 2023 (oral) [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/25093)
+</i>
 
 <strong>Dense Events Grounding in Video, </strong> 
 <br/>
 <strong>Peijun Bao</strong>, Qian Zheng, Yadong Mu,
 <br/>
-<i>AAAI, 2021 (oral)
+<i>AAAI 2021 (oral)
 [[pdf]](https://baopj.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf), [[code]](https://github.com/baopj/DenseEventsGrounding)
 </i>
 <br/>
