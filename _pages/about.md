@@ -29,19 +29,25 @@ Publications
 <br />
 **Peijun Bao**, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,
 <br />
-<i> European Conference on Computer Vision (ECCV) 2024  [[pdf]](https://baopj.github.io), [[code]](https://github.com/baopj/E3M) </i>
+<i> 
+European Conference on Computer Vision (ECCV) 2024  [[pdf]](https://baopj.github.io), [[code]](https://github.com/baopj/E3M) 
+</i>
 
 Omnipotent Distillation with LLMs for Weakly-Supervised Natural Language Video Localization: When Divergence Meets Consistency,
 <br />
 **Peijun Bao**, Zihao Shao, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,
 <br />
+<i>
 Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024  [[pdf]](https://baopj.github.io/files/OmniD_AAAI2024.pdf) 
+</i>
 
 Local-Global Multi-Modal Distillation for Weakly-Supervised Temporal Video Grounding, 
 <br />
 **Peijun Bao**, Yong Xia, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot, 
 <br />
+<i>
 Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024 [[pdf]](https://baopj.github.io/files/MMDist_AAAI2024.pdf)
+</i>
 
 Cross-Modal Label Contrastive Learning for Unsupervised Audio-Visual Event Localization, 
 <br />
