@@ -15,7 +15,6 @@ author_profile: true
 -->
 
 
-
 <br/>
 <strong>E3M: Zero-Shot Spatio-Temporal Video Grounding with Expectation-Maximization Multimodal Modulation,</strong> 
 <br />
@@ -24,7 +23,7 @@ author_profile: true
 </i>
 <br/>
 
-<br/>
+
 <strong>Omnipotent Distillation with LLMs for Weakly-Supervised Natural Language Video Localization: When Divergence Meets Consistency,</strong> 
 <br />
 **Peijun Bao**, Zihao Shao, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,
@@ -33,8 +32,10 @@ author_profile: true
 </i>
 <br/>
 
-Local-Global Multi-Modal Distillation for Weakly-Supervised Temporal Video Grounding, <br />
-**Peijun Bao**, Yong Xia, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot, <br />
+<strong> Local-Global Multi-Modal Distillation for Weakly-Supervised Temporal Video Grounding, </strong>
+<br />
+**Peijun Bao**, Yong Xia, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot, 
+<br />
 AAAI 2024 [[pdf]](https://baopj.github.io/files/MMDist_AAAI2024.pdf)
 
 <strong>Dense Events Grounding in Video, </strong> 
@@ -46,9 +47,8 @@ AAAI 2024 [[pdf]](https://baopj.github.io/files/MMDist_AAAI2024.pdf)
 <br/>
 
 <strong>Learning Sample Importance for Cross-Scenario Video Temporal Grounding</strong> <br />
-<strong>Peijun Bao</strong>, Yadong Mu<br />
-<i>submitted to IJCAI 2021
-(successfully passed the first phase of review, two
-phases totally).
+<strong>Peijun Bao</strong>, Yadong Mu
+<br />
+<i>ICMR 2022 (oral) [[pdf]](https://arxiv.org/pdf/2201.02848.pdf)
 </i>
 <br />
