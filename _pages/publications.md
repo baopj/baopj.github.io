@@ -43,7 +43,7 @@ AAAI 2024 [[pdf]](https://baopj.github.io/files/MMDist_AAAI2024.pdf)
 <strong>Peijun Bao</strong>, Qian Zheng, Yadong Mu
 <br/>
 <i>AAAI, 2021.</i>
-[[pdf]](https://baopj.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf) 
+[[pdf]](https://baopj.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf), [[code]](https://github.com/baopj/DenseEventsGrounding)
 <br/>
 
 <strong>Learning Sample Importance for Cross-Scenario Video Temporal Grounding</strong> <br />
