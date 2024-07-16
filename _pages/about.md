@@ -67,17 +67,17 @@ Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021 (oral) [[pd
 [[CVPR24]](https://arxiv.org/pdf/2403.11463),  [[CVIU24]](https://arxiv.org/pdf/2109.11265), [[CVPR23]](https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_Hierarchical_Semantic_Correspondence_Networks_for_Video_Paragraph_Grounding_CVPR_2023_paper.pdf), [[CVPR22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Semi-Supervised_Video_Paragraph_Grounding_With_Contrastive_Encoder_CVPR_2022_paper.pdf), and [[EMNLP22]](https://aclanthology.org/2022.emnlp-main.639.pdf) follow our task. </small>
 </i>
 
-Learning Sample Importance for Cross-Scenario Video Temporal Grounding, 
+Peijun Bao, Yadong Mu,
 <br />
-**Peijun Bao**, Yadong Mu,
+Learning Sample Importance for Cross-Scenario Video Temporal Grounding, 
 <br />
 <i> 
 ICMR 2022 (oral) [[pdf]](https://arxiv.org/pdf/2201.02848.pdf)
 </i>
 
-Learning 3-D Human Pose Estimation from Catadioptric Videos, 
+Chenchen Liu, Yongzhi Li, Kangqi Ma, Duo Zhang, Peijun Bao, Yadong Mu,
 <br />
-Chenchen Liu, Yongzhi Li, Kangqi Ma, Duo Zhang, **Peijun Bao**, Yadong Mu,
+Learning 3-D Human Pose Estimation from Catadioptric Videos, 
 <br />
 <i> 
 IJCAI 2021 [[pdf]](https://www.ijcai.org/proceedings/2021/0118.pdf)
