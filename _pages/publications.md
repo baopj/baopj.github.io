@@ -38,6 +38,7 @@ author_profile: true
 <br />
 <i>AAAI 2024 [[pdf]](https://baopj.github.io/files/MMDist_AAAI2024.pdf)
 </i>
+<br />
 
 <strong> Cross-Modal Label Contrastive Learning for Unsupervised Audio-Visual Event Localization, </strong>
 <br />
@@ -45,6 +46,7 @@ author_profile: true
 <br />
 <i> AAAI 2023 (oral) [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/25093)
 </i>
+<br />
 
 <strong>Dense Events Grounding in Video, </strong> 
 <br/>
