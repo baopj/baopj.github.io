@@ -29,7 +29,7 @@ Publications
 <br />
 **Peijun Bao**, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,
 <br />
-European Conference on Computer Vision (ECCV) 2024  [[pdf]](https://baopj.github.io), [[code]](https://github.com/baopj/E3M) 
+<i> European Conference on Computer Vision (ECCV) 2024  [[pdf]](https://baopj.github.io), [[code]](https://github.com/baopj/E3M) </i>
 
 Omnipotent Distillation with LLMs for Weakly-Supervised Natural Language Video Localization: When Divergence Meets Consistency,
 <br />
