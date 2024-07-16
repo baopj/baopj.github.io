@@ -25,41 +25,45 @@ News
 
 Publications 
 ======
-Peijun Bao, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,
-<br />
 **E3M: Zero-Shot Spatio-Temporal Video Grounding with Expectation-Maximization Multimodal Modulation,** 
+<br />
+Peijun Bao, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,
 <br />
 <i> 
 European Conference on Computer Vision (ECCV) 2024  [[pdf]](https://baopj.github.io), [[code]](https://github.com/baopj/E3M) 
 </i>
 
-Peijun Bao, Zihao Shao, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,
-<br />
+
 **Omnipotent Distillation with LLMs for Weakly-Supervised Natural Language Video Localization: When Divergence Meets Consistency,**
+<br />
+Peijun Bao, Zihao Shao, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,
 <br />
 <i>
 Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024  [[pdf]](https://baopj.github.io/files/OmniD_AAAI2024.pdf) 
 </i>
 
-Peijun Bao, Yong Xia, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot, 
-<br />
+
 **Local-Global Multi-Modal Distillation for Weakly-Supervised Temporal Video Grounding,** 
+<br />
+Peijun Bao, Yong Xia, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot, 
 <br />
 <i>
 Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024 [[pdf]](https://baopj.github.io/files/MMDist_AAAI2024.pdf)
 </i>
 
-Peijun Bao, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,
-<br />
+
 **Cross-Modal Label Contrastive Learning for Unsupervised Audio-Visual Event Localization,** 
+<br />
+Peijun Bao, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,
 <br />
 <i> 
 Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023 (oral) [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/25093)
 </i>
 
-Peijun Bao, Qian Zheng, Yadong Mu,
-<br />
+
 **Dense Events Grounding in Video,** 
+<br />
+Peijun Bao, Qian Zheng, Yadong Mu,
 <br />
 <i> 
 Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021 (oral) [[pdf]](https://baopj.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf) [[code]](https://github.com/baopj/DenseEventsGrounding)<br />
@@ -74,17 +78,19 @@ and
 follow our task. </small>
 </i>
 
-Peijun Bao, Yadong Mu,
-<br />
+
 **Learning Sample Importance for Cross-Scenario Video Temporal Grounding,** 
+<br />
+Peijun Bao, Yadong Mu,
 <br />
 <i> 
 ICMR 2022 (oral) [[pdf]](https://arxiv.org/pdf/2201.02848.pdf)
 </i>
 
-Chenchen Liu, Yongzhi Li, Kangqi Ma, Duo Zhang, Peijun Bao, Yadong Mu,
-<br />
+
 **Learning 3-D Human Pose Estimation from Catadioptric Videos,** 
+<br />
+Chenchen Liu, Yongzhi Li, Kangqi Ma, Duo Zhang, Peijun Bao, Yadong Mu,
 <br />
 <i> 
 IJCAI 2021 [[pdf]](https://www.ijcai.org/proceedings/2021/0118.pdf)
