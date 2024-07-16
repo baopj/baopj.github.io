@@ -54,7 +54,7 @@ Dense Events Grounding in Video,
 **Peijun Bao**, Qian Zheng, Yadong Mu,
 <br />
 Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021 (oral) [[pdf]](https://baopj.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf) [[code]](https://github.com/baopj/DenseEventsGrounding)<br />
-<small> Note: we propose a new task i.e. video paragraph grounding.  
+<small> Note: we propose a new task i.e. Video Paragraph Grounding.  
 [[CVPR24]](https://arxiv.org/pdf/2403.11463),  [[CVIU24]](https://arxiv.org/pdf/2109.11265), [[CVPR23]](https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_Hierarchical_Semantic_Correspondence_Networks_for_Video_Paragraph_Grounding_CVPR_2023_paper.pdf), [[CVPR22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Semi-Supervised_Video_Paragraph_Grounding_With_Contrastive_Encoder_CVPR_2022_paper.pdf), and [[EMNLP22]](https://aclanthology.org/2022.emnlp-main.639.pdf) follow our task. </small>
 
 Learning Sample Importance for Cross-Scenario Video Temporal Grounding, 
