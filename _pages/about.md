@@ -15,7 +15,7 @@ My research interests lie in the fields of computer vision and machine learning.
 
 News
 ======
-- [2024.07] 1 papers are accepted by ECCV 2024!
+- [2024.07] 1 paper is accepted by ECCV 2024!
 - [2023.12] 2 papers are accepted by AAAI 2024!
 - [2022.12] 1 paper is accepted by AAAI 2023!
 - [2022.01] 1 paper is accepted by ICMR 2022!
@@ -25,9 +25,11 @@ News
 
 Publications 
 ======
-E3M: Zero-Shot Spatio-Temporal Video Grounding with Expectation-Maximization Multimodal Modulation,<br />
-**Peijun Bao**, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,<br />
-ECCV 2024  [[pdf]](https://baopj.github.io), [[code]](https://github.com/baopj/E3M) 
+E3M: Zero-Shot Spatio-Temporal Video Grounding with Expectation-Maximization Multimodal Modulation,
+<br />
+**Peijun Bao**, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,
+<br />
+European Conference on Computer Vision (ECCV) 2024  [[pdf]](https://baopj.github.io), [[code]](https://github.com/baopj/E3M) 
 
 Omnipotent Distillation with LLMs for Weakly-Supervised Natural Language Video Localization: When Divergence Meets Consistency,<br />
 **Peijun Bao**, Zihao Shao, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,<br />
