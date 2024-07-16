@@ -42,7 +42,7 @@ AAAI 2024 [[pdf]](https://baopj.github.io/files/MMDist_AAAI2024.pdf)
 <br/>
 <strong>Peijun Bao</strong>, Qian Zheng, Yadong Mu
 <br/>
-<i>Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), Virtual Conference, 2021.</i>
+<i>AAAI, 2021.</i>
 [[pdf]](https://baopj.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf) 
 <br/>
 
