@@ -30,7 +30,7 @@ Publications
 Peijun Bao, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,
 <br />
 <i> 
-European Conference on Computer Vision (ECCV) 2024  [[pdf]](https://baopj.github.io), [[code]](https://github.com/baopj/E3M) 
+European Conference on Computer Vision (ECCV), 2024  [[pdf]](https://baopj.github.io), [[code]](https://github.com/baopj/E3M) 
 </i>
 
 
@@ -84,7 +84,7 @@ follow our task. </small>
 Peijun Bao, Yadong Mu,
 <br />
 <i> 
-The 12th International Conference on Multimedia Retrieval (ICMR) 2022 (oral) [[pdf]](https://arxiv.org/pdf/2201.02848.pdf)
+The 12th International Conference on Multimedia Retrieval (ICMR), 2022 (oral) [[pdf]](https://arxiv.org/pdf/2201.02848.pdf)
 </i>
 
 
@@ -93,5 +93,5 @@ The 12th International Conference on Multimedia Retrieval (ICMR) 2022 (oral) [[p
 Chenchen Liu, Yongzhi Li, Kangqi Ma, Duo Zhang, Peijun Bao, Yadong Mu,
 <br />
 <i> 
-The 30th International Joint Conference on Artificial Intelligence (IJCAI) 2021 [[pdf]](https://www.ijcai.org/proceedings/2021/0118.pdf)
+The 30th International Joint Conference on Artificial Intelligence (IJCAI), 2021 [[pdf]](https://www.ijcai.org/proceedings/2021/0118.pdf)
 </i>
