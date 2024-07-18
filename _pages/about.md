@@ -60,14 +60,6 @@ Peijun Bao, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,
 Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023 (oral) [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/25093)
 </i>
 
-**Learning Sample Importance for Cross-Scenario Video Temporal Grounding,** 
-<br />
-Peijun Bao, Yadong Mu,
-<br />
-<i> 
-The 12th International Conference on Multimedia Retrieval (ICMR), 2022 (oral) [[pdf]](https://arxiv.org/pdf/2201.02848.pdf)
-</i>
-
 **Dense Events Grounding in Video,** 
 <br />
 Peijun Bao, Qian Zheng, Yadong Mu,
@@ -83,6 +75,14 @@ A list of works such as
 and 
 [[EMNLP22]](https://aclanthology.org/2022.emnlp-main.639.pdf) 
 follow our task. </small>
+</i>
+
+**Learning Sample Importance for Cross-Scenario Video Temporal Grounding,** 
+<br />
+Peijun Bao, Yadong Mu,
+<br />
+<i> 
+The 12th International Conference on Multimedia Retrieval (ICMR), 2022 (oral) [[pdf]](https://arxiv.org/pdf/2201.02848.pdf)
 </i>
 
 
