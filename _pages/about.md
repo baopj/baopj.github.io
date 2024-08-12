@@ -30,7 +30,7 @@ Publications
 Peijun Bao, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,
 <br />
 <i> 
-European Conference on Computer Vision (ECCV), 2024  [[pdf]](https://baopj.github.io), [[code]](https://github.com/baopj/E3M) 
+European Conference on Computer Vision (ECCV), 2024 (oral ~2.4%) [[pdf]](https://baopj.github.io), [[code]](https://github.com/baopj/E3M) 
 </i>
 
 
