@@ -74,15 +74,15 @@ and
 follow our task. </small>
 </i>
 
-**Learning Sample Importance for Cross-Scenario Video Temporal Grounding,** 
-<br />
 Peijun Bao, Yadong Mu,
+<br />
+**Learning Sample Importance for Cross-Scenario Video Temporal Grounding,** 
 <br />
 The 12th International Conference on Multimedia Retrieval (ICMR), 2022 (oral) [[pdf]](https://arxiv.org/pdf/2201.02848.pdf)
 
 
-**Learning 3-D Human Pose Estimation from Catadioptric Videos,** 
-<br />
 Chenchen Liu, Yongzhi Li, Kangqi Ma, Duo Zhang, Peijun Bao, Yadong Mu,
+<br />
+**Learning 3-D Human Pose Estimation from Catadioptric Videos,** 
 <br />
 The 30th International Joint Conference on Artificial Intelligence (IJCAI), 2021 [[pdf]](https://www.ijcai.org/proceedings/2021/0118.pdf)
