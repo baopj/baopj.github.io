@@ -9,7 +9,7 @@ redirect_from:
 ---
 About Me
 ======
-I am **Peijun Bao (包培钧)**, currently a PhD student at [RoseLab@NTU](https://www.ntu.edu.sg/rose/about-us/our-people#Content_C001_Col00) supervised by [Prof. Alex Kot](https://personal.ntu.edu.sg/eackot/) (SAEng/IEEE Life Fellow) and [Prof. Er Meng Hwa](https://www.ntu.edu.sg/research/faculty-directory/detail/rp02304) (SAEng/IEEE Life Fellow). Additionally, I collaborate closely with [Prof. Yadong Mu (PKU)](http://www.muyadong.com/), [Prof. Zheng Qian (ZJU)](https://person.zju.edu.cn/zq), [Prof. Yong Xia (NPU) ](https://scholar.google.com/citations?user=Usw1jeMAAAAJ&hl=en), and [Dr. Yang Wenhan (Pengcheng Lab)](https://flyywh.github.io/).
+I am **Peijun Bao (包培钧)**, currently a PhD student at [RoseLab@NTU](https://www.ntu.edu.sg/rose/about-us/our-people#Content_C001_Col00) supervised by [Prof. Alex Kot](https://personal.ntu.edu.sg/eackot/) (SAEng/IEEE Life Fellow) and [Prof. Er Meng Hwa](https://www.ntu.edu.sg/research/faculty-directory/detail/rp02304) (SAEng/IEEE Life Fellow). Additionally, I collaborate closely with [Prof. Yong Xia (NPU) ](https://scholar.google.com/citations?user=Usw1jeMAAAAJ&hl=en), [Prof. Zheng Qian (ZJU)](https://person.zju.edu.cn/zq),  [Prof. Yadong Mu (PKU)](http://www.muyadong.com/), and [Dr. Yang Wenhan (Pengcheng Lab)](https://flyywh.github.io/).
 
 My research interests lie in the fields of computer vision and machine learning. Specifically, I am focused on the multimodal understanding of video and language. My goal is to enable machines to accurately understand the video content while keeping the manual annotation process efficient.
 
