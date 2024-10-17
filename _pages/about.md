@@ -15,7 +15,7 @@ My research interests lie in the fields of computer vision and machine learning.
 
 News
 ======
-- [2024.08] our E3M is selected as oral presentation on ECCV 2024!
+- [2024.08] Our ECCV paper is selected as an oral presentation! 
 - [2024.07] 1 paper is accepted by ECCV 2024!
 - [2023.12] 2 papers are accepted by AAAI 2024!
 - [2022.12] 1 paper is accepted by AAAI 2023!
