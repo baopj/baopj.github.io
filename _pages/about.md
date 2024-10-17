@@ -18,8 +18,8 @@ News
 - [2024.08] our E3M is selected as oral presentation on ECCV 2024!
 - [2024.07] 1 paper is accepted by ECCV 2024!
 - [2023.12] 2 papers are accepted by AAAI 2024!
-- [2022.12] 1 paper is accepted by AAAI 2023 as oral presentation!
-- [2022.01] 1 paper is accepted by ICMR 2022 as oral presentation!
+- [2022.12] 1 paper is accepted by AAAI 2023!
+- [2022.01] 1 paper is accepted by ICMR 2022!
 - [2021.01] 1 paper is accepted by AAAI 2021!
 <br />
 <br />
