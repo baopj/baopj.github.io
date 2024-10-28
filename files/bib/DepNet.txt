@@ -1,0 +1,6 @@
+@inproceedings{bao2021dense,
+  title={Dense events grounding in video},
+  author={Bao, Peijun and Zheng, Qian and Mu, Yadong},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2021}
+}

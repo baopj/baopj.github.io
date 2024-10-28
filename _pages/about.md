@@ -30,7 +30,7 @@ Peijun Bao, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,
 <br />
 **E3M: Zero-Shot Spatio-Temporal Video Grounding with Expectation-Maximization Multimodal Modulation,** 
 <br />
-European Conference on Computer Vision (ECCV), 2024 (oral, top 2.4%) [[pdf]](https://baopj.github.io/files/ECCV24_E3M_ZeroSTVG.pdf), [[code]](https://github.com/baopj/E3M) 
+European Conference on Computer Vision (ECCV), 2024 (oral, top 2.4%) [[pdf]](https://baopj.github.io/files/ECCV24_E3M_ZeroSTVG.pdf), [[code]](https://github.com/baopj/E3M), [[bib]](https://baopj.github.io/files/bib/E3M.txt)
 
 
 
@@ -38,28 +38,28 @@ Peijun Bao, Zihao Shao, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,
 <br />
 **Omnipotent Distillation with LLMs for Weakly-Supervised Natural Language Video Localization: When Divergence Meets Consistency,**
 <br />
-Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024  [[pdf]](https://baopj.github.io/files/OmniD_AAAI2024.pdf) 
+Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024  [[pdf]](https://baopj.github.io/files/OmniD_AAAI2024.pdf), [[bib]](https://baopj.github.io/files/bib/OmniD.txt)
 
 
 Peijun Bao, Yong Xia, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot, 
 <br />
 **Local-Global Multi-Modal Distillation for Weakly-Supervised Temporal Video Grounding,** 
 <br />
-Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024 [[pdf]](https://baopj.github.io/files/MMDist_AAAI2024.pdf)
+Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024 [[pdf]](https://baopj.github.io/files/MMDist_AAAI2024.pdf), [[bib]](https://baopj.github.io/files/bib/OmniD.txt)
 
 
 Peijun Bao, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,
 <br />
 **Cross-Modal Label Contrastive Learning for Unsupervised Audio-Visual Event Localization,** 
 <br />
-Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023 (oral) [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/25093)
+Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023 (oral) [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/25093), [[bib]](https://baopj.github.io/files/bib/UnsupAVE.txt)
 
 
 Peijun Bao, Qian Zheng, Yadong Mu,
 <br />
 **Dense Events Grounding in Video,** 
 <br />
-Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021 (oral) [[pdf]](https://baopj.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf) [[code]](https://github.com/baopj/DenseEventsGrounding)<br />
+Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021 (oral) [[pdf]](https://baopj.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf) [[code]](https://github.com/baopj/DenseEventsGrounding), [[bib]](https://baopj.github.io/files/bib/DepNet.txt)<br />
 <small> Note: we propose a popular new task i.e. Video Paragraph Grounding. 
 <br />
 A list of works such as
@@ -77,7 +77,7 @@ Peijun Bao, Yadong Mu,
 <br />
 **Learning Sample Importance for Cross-Scenario Video Temporal Grounding,** 
 <br />
-The 12th International Conference on Multimedia Retrieval (ICMR), 2022 (oral) [[pdf]](https://arxiv.org/pdf/2201.02848.pdf)
+The 12th International Conference on Multimedia Retrieval (ICMR), 2022 (oral) [[pdf]](https://arxiv.org/pdf/2201.02848.pdf), , [[bib]](https://baopj.github.io/files/bib/CrossScenario.txt)
 
 
 Chenchen Liu, Yongzhi Li, Kangqi Ma, Duo Zhang, Peijun Bao, Yadong Mu,
