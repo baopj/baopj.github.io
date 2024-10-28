@@ -45,7 +45,7 @@ Peijun Bao, Yong Xia, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,
 <br />
 **Local-Global Multi-Modal Distillation for Weakly-Supervised Temporal Video Grounding,** 
 <br />
-Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024 [[pdf]](https://baopj.github.io/files/MMDist_AAAI2024.pdf), [[bib]](https://baopj.github.io/files/bib/OmniD.txt)
+Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024 [[pdf]](https://baopj.github.io/files/MMDist_AAAI2024.pdf), [[bib]](https://baopj.github.io/files/bib/MMDist.txt)
 
 
 Peijun Bao, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,
