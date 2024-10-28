@@ -79,7 +79,7 @@ Peijun Bao, Yadong Mu,
 <br />
 **Learning Sample Importance for Cross-Scenario Video Temporal Grounding,** 
 <br />
-The 12th International Conference on Multimedia Retrieval (ICMR), 2022 (oral) [[pdf]](https://arxiv.org/pdf/2201.02848.pdf), , [[bib]](https://baopj.github.io/files/bib/LSI.txt)
+The 12th International Conference on Multimedia Retrieval (ICMR), 2022 (oral) [[pdf]](https://arxiv.org/pdf/2201.02848.pdf), [[bib]](https://baopj.github.io/files/bib/LSI.txt)
 
 
 Chenchen Liu, Yongzhi Li, Kangqi Ma, Duo Zhang, Peijun Bao, Yadong Mu,
