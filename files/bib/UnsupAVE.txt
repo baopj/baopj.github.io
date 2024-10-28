@@ -1,0 +1,6 @@
+@inproceedings{bao2023cross,
+  title={Cross-modal label contrastive learning for unsupervised audio-visual event localization},
+  author={Bao, Peijun and Yang, Wenhan and Ng, Boon Poh and Er, Meng Hwa and Kot, Alex C},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2023}
+}
