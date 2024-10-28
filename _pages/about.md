@@ -30,7 +30,7 @@ Peijun Bao, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,
 <br />
 **E3M: Zero-Shot Spatio-Temporal Video Grounding with Expectation-Maximization Multimodal Modulation,** 
 <br />
-European Conference on Computer Vision (ECCV), 2024 (oral, top 2.4%) [[pdf]](https://baopj.github.io/files/ECCV24_E3M_ZeroSTVG.pdf), [[code]](https://github.com/baopj/E3M), [[bib]](https://baopj.github.io/files/bib/E3M.txt)
+European Conference on Computer Vision (ECCV), 2024 (oral, top 2.4%) [[pdf]](https://baopj.github.io/files/ECCV24_E3M_ZeroSTVG.pdf), [[bib]](https://baopj.github.io/files/bib/E3M.txt), [[code]](https://github.com/baopj/E3M)
 
 
 
@@ -59,7 +59,9 @@ Peijun Bao, Qian Zheng, Yadong Mu,
 <br />
 **Dense Events Grounding in Video,** 
 <br />
-Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021 (oral) [[pdf]](https://baopj.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf) [[code]](https://github.com/baopj/DenseEventsGrounding), [[bib]](https://baopj.github.io/files/bib/DepNet.txt)<br />
+Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021 (oral) [[pdf]](https://baopj.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf), [[bib]](https://baopj.github.io/files/bib/DepNet.txt),
+[[code]](https://github.com/baopj/DenseEventsGrounding)
+<br />
 <small> Note: we propose a popular new task i.e. Video Paragraph Grounding. 
 <br />
 A list of works such as

@@ -20,7 +20,8 @@ author_profile: true
 E3M: Zero-Shot Spatio-Temporal Video Grounding with Expectation-Maximization Multimodal Modulation,</strong> 
 <br />
 **Peijun Bao**, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,<br />
-<i>ECCV 2024 (oral) [[pdf]](https://baopj.github.io), [[code]](https://github.com/baopj/E3M) 
+<i>ECCV 2024 (oral) [[pdf]](https://baopj.github.io), [[code]](https://github.com/baopj/E3M),
+[[bib]](https://baopj.github.io/files/bib/E3M.txt) 
 </i>
 <br/>
 
@@ -30,7 +31,8 @@ Omnipotent Distillation with LLMs for Weakly-Supervised Natural Language Video L
 <br />
 **Peijun Bao**, Zihao Shao, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,
 <br />
-<i>AAAI 2024  [[pdf]](https://baopj.github.io/files/OmniD_AAAI2024.pdf) 
+<i>AAAI 2024  [[pdf]](https://baopj.github.io/files/OmniD_AAAI2024.pdf),
+[[bib]](https://baopj.github.io/files/bib/OmniD.txt) 
 </i>
 <br/>
 
@@ -39,7 +41,8 @@ Local-Global Multi-Modal Distillation for Weakly-Supervised Temporal Video Groun
 <br />
 **Peijun Bao**, Yong Xia, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot, 
 <br />
-<i>AAAI 2024 [[pdf]](https://baopj.github.io/files/MMDist_AAAI2024.pdf)
+<i>AAAI 2024 [[pdf]](https://baopj.github.io/files/MMDist_AAAI2024.pdf),
+[[bib]](https://baopj.github.io/files/bib/MMDist.txt)
 </i>
 <br />
 
@@ -48,7 +51,8 @@ Cross-Modal Label Contrastive Learning for Unsupervised Audio-Visual Event Local
 <br />
 **Peijun Bao**, Wenhan Yang, Boon Poh Ng, Meng Hwa Er, Alex Kot,
 <br />
-<i> AAAI 2023 (oral) [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/25093)
+<i> AAAI 2023 (oral) [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/25093),
+[[bib]](https://baopj.github.io/files/bib/UnsupAVE.txt)
 </i>
 <br />
 
@@ -59,7 +63,9 @@ Dense Events Grounding in Video,
 <strong>Peijun Bao</strong>, Qian Zheng, Yadong Mu,
 <br/>
 <i>AAAI 2021 (oral)
-[[pdf]](https://baopj.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf), [[code]](https://github.com/baopj/DenseEventsGrounding)
+[[pdf]](https://baopj.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf), 
+[[bib]](https://baopj.github.io/files/bib/DepNet.txt),
+[[code]](https://github.com/baopj/DenseEventsGrounding)
 </i>
 <br/>
 
@@ -69,7 +75,8 @@ Learning Sample Importance for Cross-Scenario Video Temporal Grounding,
 <br />
 <strong>Peijun Bao</strong>, Yadong Mu,
 <br />
-<i>ICMR 2022 (oral) [[pdf]](https://arxiv.org/pdf/2201.02848.pdf)
+<i>ICMR 2022 (oral) [[pdf]](https://arxiv.org/pdf/2201.02848.pdf),
+[[bib]](https://baopj.github.io/files/bib/LSI.txt)
 </i>
 <br />
 
