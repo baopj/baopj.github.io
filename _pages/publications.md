@@ -20,8 +20,9 @@ author_profile: true
 E3M: Zero-Shot Spatio-Temporal Video Grounding with Expectation-Maximization Multimodal Modulation,</strong> 
 <br />
 **Peijun Bao**, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,<br />
-<i>ECCV 2024 (oral) [[pdf]](https://baopj.github.io), [[code]](https://github.com/baopj/E3M),
-[[bib]](https://baopj.github.io/files/bib/E3M.txt) 
+<i>ECCV 2024 (oral) [[pdf]](https://baopj.github.io), 
+[[bib]](https://baopj.github.io/files/bib/E3M.txt),
+[[code]](https://github.com/baopj/E3M)
 </i>
 <br/>
 
