@@ -26,11 +26,11 @@ News
 
 Publications 
 ======
-Peijun Bao, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,
+Peijun Bao, Chenqi Kong, Wenhan Yang, Boon Poh Ng, Menghwa Er, Alex Kot,
 <br />
-**E3M: Zero-Shot Spatio-Temporal Video Grounding with Expectation-Maximization Multimodal Modulation,** 
+**Vid-Morp: Video Moment Retrieval Pretraining from Unlabeled Videos in the Wild,** 
 <br />
-European Conference on Computer Vision (ECCV), 2024 (oral, top 2.4%) [[pdf]](https://arxiv.org/pdf/2412.00811), [[bib]](https://baopj.github.io/files/bib/VidMorp.txt), [[code]](https://github.com/baopj/vid-morp)
+arXiv preprint arXiv:2412.00811 [[pdf]](https://arxiv.org/pdf/2412.00811), [[bib]](https://baopj.github.io/files/bib/VidMorp.txt), [[code]](https://github.com/baopj/vid-morp)
 
 Peijun Bao, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,
 <br />
