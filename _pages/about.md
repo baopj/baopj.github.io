@@ -30,6 +30,12 @@ Peijun Bao, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,
 <br />
 **E3M: Zero-Shot Spatio-Temporal Video Grounding with Expectation-Maximization Multimodal Modulation,** 
 <br />
+European Conference on Computer Vision (ECCV), 2024 (oral, top 2.4%) [[pdf]](https://arxiv.org/pdf/2412.00811), [[bib]](https://baopj.github.io/files/bib/VidMorp.txt), [[code]](https://github.com/baopj/vid-morp)
+
+Peijun Bao, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,
+<br />
+**E3M: Zero-Shot Spatio-Temporal Video Grounding with Expectation-Maximization Multimodal Modulation,** 
+<br />
 European Conference on Computer Vision (ECCV), 2024 (oral, top 2.4%) [[pdf]](https://baopj.github.io/files/ECCV24_E3M_ZeroSTVG.pdf), [[bib]](https://baopj.github.io/files/bib/E3M.txt), [[code]](https://github.com/baopj/E3M)
 
 
