@@ -9,7 +9,7 @@ redirect_from:
 ---
 About Me
 ======
-I am **Peijun Bao (包培钧)**, currently a PhD student at [RoseLab@NTU](https://www.ntu.edu.sg/rose/about-us/our-people#Content_C001_Col00) supervised by [Prof. Alex Kot](https://personal.ntu.edu.sg/eackot/) (SAEng/IEEE Life Fellow) and [Prof. Er Meng Hwa](https://www.ntu.edu.sg/research/faculty-directory/detail/rp02304) (SAEng/IEEE Life Fellow). Additionally, I collaborate closely with [Prof. Yong Xia (NPU) ](https://scholar.google.com/citations?user=Usw1jeMAAAAJ&hl=en), [Prof. Zheng Qian (ZJU)](https://person.zju.edu.cn/zq),  [Prof. Yadong Mu (PKU)](http://www.muyadong.com/), and [Dr. Yang Wenhan (Pengcheng Lab)](https://flyywh.github.io/).
+I am **Peijun Bao (包培钧)**,  a final PhD student at [RoseLab@NTU](https://www.ntu.edu.sg/rose/about-us/our-people#Content_C001_Col00) supervised by [Prof. Alex Kot](https://personal.ntu.edu.sg/eackot/) (SAEng/IEEE Life Fellow) and [Prof. Er Meng Hwa](https://www.ntu.edu.sg/research/faculty-directory/detail/rp02304) (SAEng/IEEE Life Fellow). Additionally, I collaborate closely with [Prof. Yong Xia (NPU) ](https://scholar.google.com/citations?user=Usw1jeMAAAAJ&hl=en), [Prof. Zheng Qian (ZJU)](https://person.zju.edu.cn/zq),  [Prof. Yadong Mu (PKU)](http://www.muyadong.com/), and [Dr. Yang Wenhan (Pengcheng Lab)](https://flyywh.github.io/).
 
 My research interests lie in the fields of computer vision and machine learning. Specifically, I am focused on the multimodal understanding of video and language. My goal is to enable machines to accurately understand the video content while keeping the manual annotation process efficient.
 
@@ -26,9 +26,9 @@ News
 
 Publications 
 ======
-Peijun Bao, Chenqi Kong, Wenhan Yang, Boon Poh Ng, Menghwa Er, Alex Kot,
+Peijun Bao, Chenqi Kong, Siyuan Yang, Zihao Shao, Xinghao Jiang, Boon Poh Ng, Menghwa Er, Alex Kot,
 <br />
-**Vid-Morp: Video Moment Retrieval Pretraining from Unlabeled Videos in the Wild,** 
+**Vid-Group: Temporal Video Grounding Pretraining from Unlabeled Videos in the Wild,** 
 <br />
 arXiv preprint arXiv:2412.00811 [[pdf]](https://arxiv.org/pdf/2412.00811), [[bib]](https://baopj.github.io/files/bib/VidMorp.txt), [[code]](https://github.com/baopj/vid-morp)
 
