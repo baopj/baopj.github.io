@@ -9,9 +9,20 @@ redirect_from:
 ---
 About Me
 ======
-I am **Peijun Bao (包培钧)**,  currently a PhD student at [RoseLab@NTU](https://www.ntu.edu.sg/rose/about-us/our-people#Content_C001_Col00) supervised by [Prof. Alex Kot](https://personal.ntu.edu.sg/eackot/) (SAEng/IEEE Life Fellow) and [Prof. Er Meng Hwa](https://www.ntu.edu.sg/research/faculty-directory/detail/rp02304) (SAEng/IEEE Life Fellow). 
+I am **Peijun Bao (包培钧)**,  currently a PhD student at [RoseLab@NTU](https://www.ntu.edu.sg/rose/about-us/our-people#Content_C001_Col00) supervised by [Prof. Alex Kot](https://personal.ntu.edu.sg/eackot/) (SAEng/IEEE Life Fellow) and [Prof. Er Meng Hwa](https://www.ntu.edu.sg/research/faculty-directory/detail/rp02304) (SAEng/IEEE Life Fellow). Additionally, I collaborate closely with [Prof. Yong Xia (NPU) ](https://scholar.google.com/citations?user=Usw1jeMAAAAJ&hl=en), [Prof. Zheng Qian (ZJU)](https://person.zju.edu.cn/zq),  [Prof. Yadong Mu (PKU)](http://www.muyadong.com/), and [Dr. Yang Wenhan (Pengcheng Lab)](https://flyywh.github.io/).
+
 My research interests lie in the fields of computer vision and machine learning. Specifically, I am focused on the multimodal understanding of video and language. My goal is to enable machines to accurately understand the video content while keeping the manual annotation process efficient.
 
+News
+======
+- [2024.08] Our ECCV paper is selected as an oral presentation! 
+- [2024.07] 1 paper is accepted by ECCV 2024!
+- [2023.12] 2 papers are accepted by AAAI 2024!
+- [2022.12] 1 paper is accepted by AAAI 2023!
+- [2022.01] 1 paper is accepted by ICMR 2022!
+- [2021.01] 1 paper is accepted by AAAI 2021!
+<br />
+<br />
 
 Publications 
 ======
