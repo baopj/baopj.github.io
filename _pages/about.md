@@ -9,9 +9,7 @@ redirect_from:
 ---
 About Me
 ======
-I am **Peijun Bao (包培钧)**,  currently a PhD student at [RoseLab@NTU](https://www.ntu.edu.sg/rose/about-us/our-people#Content_C001_Col00) supervised by [Prof. Alex Kot](https://personal.ntu.edu.sg/eackot/) (SAEng/IEEE Life Fellow) and [Prof. Er Meng Hwa](https://www.ntu.edu.sg/research/faculty-directory/detail/rp02304) (SAEng/IEEE Life Fellow). 
-
-My research interests lie in the fields of computer vision and machine learning. Specifically, I am focused on the multimodal understanding of video and language. My goal is to enable machines to accurately understand the video content while keeping the manual annotation process efficient.
+I am **Peijun Bao (包培钧)**,  currently a PhD student at [RoseLab@NTU](https://www.ntu.edu.sg/rose/about-us/our-people#Content_C001_Col00) supervised by [Prof. Alex Kot](https://personal.ntu.edu.sg/eackot/) (SAEng/IEEE Life Fellow) and [Prof. Er Meng Hwa](https://www.ntu.edu.sg/research/faculty-directory/detail/rp02304) (SAEng/IEEE Life Fellow). My research interests lie in the fields of computer vision and machine learning. Specifically, I am focused on the multimodal understanding of video and language. My goal is to enable machines to accurately understand the video content while keeping the manual annotation process efficient.
 
 News
 ======
