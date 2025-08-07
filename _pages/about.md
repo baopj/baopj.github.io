@@ -30,7 +30,7 @@ Peijun Bao, Chenqi Kong, Siyuan Yang, Zihao Shao, Xinghao Jiang, Boon Poh Ng, Me
 <br />
 **Vid-Group: Temporal Video Grounding Pretraining from Unlabeled Videos in the Wild,** 
 <br />
-arXiv preprint arXiv:2412.00811 [[pdf]](https://arxiv.org/pdf/2412.00811), [[bib]](https://baopj.github.io/files/bib/VidMorp.txt), [[code]](https://github.com/baopj/vid-morp)
+International Conference on Computer Vision (ICCV), 2025 arXiv preprint arXiv:2412.00811 [[pdf]](https://arxiv.org/pdf/2412.00811), [[bib]](https://baopj.github.io/files/bib/VidMorp.txt), [[code]](https://github.com/baopj/vid-morp)
 
 Peijun Bao, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,
 <br />
