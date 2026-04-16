@@ -2,10 +2,10 @@
 main:
   - title: "About Me"
     url: /about
-  - title: "Publications"
-    url: /publications/  
-  - title: "Course"
-    url: /Course/ 
+#  - title: "Publications"
+#    url: /publications/
+#  - title: "Course"
+#    url: /Course/
 
     
   #- title: "CV"

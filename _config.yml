@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Peijun Bao (包培钧)'s Homepage"
+title                    : "Welcome to Peijun Bao's Homepage"
 title_separator          : "-"
 name                     : &name "Peijun Bao"
 description              : &description "personal description"

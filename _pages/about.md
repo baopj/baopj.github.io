@@ -29,7 +29,7 @@ Publications
 ======
 Peijun Bao, Anwei Luo, Alex Kot, Xudong Jiang
 <br />
-**Vid-Group: Temporal Video Grounding Pretraining from Unlabeled Videos in the Wild,** 
+**ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos,** 
 <br />
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026 [[pdf]](https://arxiv.org/pdf/2604.03819), [[code]](https://github.com/ActivityForensics/activityforensics)
 
@@ -56,7 +56,7 @@ Chenqi Kong, Anwei Luo, Peijun Bao, Yi Yu, Haoliang Li, Zengwei Zheng, Shiqi Wan
 <br />
 **Moe-ffd: Mixture of experts for generalized and parameter-efficient face forgery detection,**
 <br />
-IEEE Transactions on Dependable and Secure Computing (TDSC), 2026 [[pdf]](https://arxiv.org/pdf/2404.08452)
+IEEE Transactions on Dependable and Secure Computing (TDSC), 2025 [[pdf]](https://arxiv.org/pdf/2404.08452)
 
 Peijun Bao, Zihao Shao, Wenhan Yang, Boon Poh Ng, Alex Kot,
 <br />
