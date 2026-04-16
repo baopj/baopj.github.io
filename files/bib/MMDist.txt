@@ -1,0 +1,6 @@
+@inproceedings{bao2024local,
+  title={Local-Global Multi-Modal Distillation for Weakly-Supervised Temporal Video Grounding},
+  author={Bao, Peijun and Xia, Yong and Yang, Wenhan and Ng, Boon Poh and Er, Meng Hwa and Kot, Alex C},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2024}
+}

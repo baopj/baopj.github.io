@@ -1,0 +1,6 @@
+@inproceedings{bao2022learning,
+  title={Learning Sample Importance for Cross-Scenario Video Temporal Grounding},
+  author={Bao, Peijun and Mu, Yadong},
+  booktitle={Proceedings of the 2022 International Conference on Multimedia Retrieval (ICMR)},
+  year={2022}
+}

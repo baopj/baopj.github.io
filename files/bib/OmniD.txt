@@ -1,0 +1,6 @@
+@inproceedings{bao2024omnipotent,
+  title={Omnipotent Distillation with LLMs for Weakly-Supervised Natural Language Video Localization: When Divergence Meets Consistency},
+  author={Bao, Peijun and Shao, Zihao and Yang, Wenhan and Ng, Boon Poh and Er, Meng Hwa and Kot, Alex C},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2024}
+}
