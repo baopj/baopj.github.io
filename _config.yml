@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Peijun Bao"
   avatar           : "profile.jpg"
-  bio              : "RoseLab@NTU" #"Master student at Peking University"
+  bio              :
   location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "peijunbao@pku.edu.cn"
+  email            : "peijun001@e.ntu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "baopj"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
