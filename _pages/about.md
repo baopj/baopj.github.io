@@ -33,7 +33,7 @@ Peijun Bao, Anwei Luo, Alex Kot, Xudong Jiang
 <br />
 The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026 [[pdf]](https://arxiv.org/pdf/2604.03819), [[code]](https://github.com/ActivityForensics/activityforensics)
 
-Zhaoxu Li, Chenqi Kong, Peijun Bao*, Song Xia, Yi Tu, Yi Yu, Xinghao Jiang, Xudong Jiang
+Zhaoxu Li, Chenqi Kong, Peijun Bao, Song Xia, Yi Tu, Yi Yu, Xinghao Jiang, Xudong Jiang
 <br />
 **SAKED: Mitigating Hallucination in Large Vision-Language Models via Stability-Aware Knowledge Enhanced Decoding,**
 <br />
