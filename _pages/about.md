@@ -33,6 +33,12 @@ Peijun Bao, Anwei Luo, Alex Kot, Xudong Jiang
 <br />
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026 [[pdf]](https://arxiv.org/pdf/2604.03819), [[code]](https://github.com/ActivityForensics/activityforensics)
 
+Zhaoxu Li, Chenqi Kong, Peijun Bao*, Song Xia, Yi Tu, Yi Yu, Xinghao Jiang, Xudong Jiang
+<br />
+**SAKED: Mitigating Hallucination in Large Vision-Language Models via Stability-Aware Knowledge Enhanced Decoding,**
+<br />
+arxiv prerint, 2026 [[pdf]](https://arxiv.org/pdf/2602.09825)
+
 Chenqi Kong, Anwei Luo, Peijun Bao, Haoliang Li, Renjie Wan, Zengwei Zheng, Anderson Rocha, Alex Kot,
 <br />
 **Open-set deepfake detection: a parameter-efficient adaptation method with forgery style mixture,**
@@ -40,11 +46,14 @@ Chenqi Kong, Anwei Luo, Peijun Bao, Haoliang Li, Renjie Wan, Zengwei Zheng, Ande
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026
 [[pdf]](https://arxiv.org/pdf/2408.12791)
 
-Zhaoxu Li, Chenqi Kong, Peijun Bao*, Song Xia, Yi Tu, Yi Yu, Xinghao Jiang, Xudong Jiang
+Runzhong Zhang, Fengrui Tian, Yueqi Duan, Chen Cai, Ziwei Wang,
+Weipeng Hu, Peijun Bao, Yang Chen, Suchen Wang, and Yap-Peng Tan
 <br />
-**SAKED: Mitigating Hallucination in Large Vision-Language Models via Stability-Aware Knowledge Enhanced Decoding,**
+**Learning Action Distribution Flow for Open-set Temporal Action Segmentation,**
 <br />
-arxiv prerint, 2026 [[pdf]](https://arxiv.org/pdf/2602.09825)
+IEEE Transactions on Circuits and Systems for Video Technology (TIP), 2026
+[[pdf]]()
+
 
 Peijun Bao, Chenqi Kong, Siyuan Yang, Zihao Shao, Xinghao Jiang, Boon Poh Ng, Menghwa Er, Alex Kot,
 <br />
